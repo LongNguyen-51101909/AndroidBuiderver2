@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\TestProject\\AndroidBuider\\pulllayout\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 56,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "D:\\TestProject\\AndroidBuider\\pulllayout\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 56,
+                        "endOffset": 329
+                    }
+                }
+            }
+        ]
+    }
+]

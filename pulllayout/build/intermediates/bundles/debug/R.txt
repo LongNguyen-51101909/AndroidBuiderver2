@@ -1,0 +1,10 @@
+int anim hide_header 0x7f030000
+int attr header 0x7f010000
+int attr maxHeaderHeight 0x7f010001
+int attr minHeaderHeight 0x7f010002
+int layout main 0x7f020000
+int string app_name 0x7f040000
+int[] styleable pull { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable pull_header 0
+int styleable pull_maxHeaderHeight 1
+int styleable pull_minHeaderHeight 2

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="pull"><attr format="reference|integer" name="header"/><attr format="reference|dimension" name="maxHeaderHeight"/><attr format="reference|dimension" name="minHeaderHeight"/></declare-styleable>
+    <string name="app_name">ACTIVITY_ENTRY_NAME</string>
+</resources>
